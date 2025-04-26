@@ -1,19 +1,19 @@
 {
   "name": "Abdul Mateen Portfolio",
   "short_name": "Portfolio",
-  "start_url": "/",
+  "start_url": "https://am.infy.uk/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#ff4d6d",
   "description": "Portfolio of Abdul Mateen, Graphics Designer and Developer",
   "icons": [
     {
-      "src": "/icon-192x192.png",
+      "src": "https://am.infy.uk/icon-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/icon-512x512.png",
+      "src": "https://am.infy.uk/icon-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
