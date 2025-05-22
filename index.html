@@ -177,35 +177,22 @@
         }
         
         .home-img {
-            flex: 1;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            position: relative;
-        }
-        
-        .home-img::before {
-            content: '';
-            position: absolute;
-            width: 80%;
-            height: 80%;
-            border: 4px solid var(--primary-color);
-            border-radius: 10px;
-            top: 30px;
-            left: 30px;
-            z-index: -1;
-        }
-        
-        .home-img img {
-            max-width: 100%;
-            border-radius: 10px;
-            box-shadow: 0 0 20px rgba(255, 49, 49, 0.3);
-            transition: var(--transition);
-        }
-        
-        .home-img img:hover {
-            transform: scale(1.02);
-        }
+    border-radius: 50%;
+}
+
+.home-img img {
+    position: relative;
+    width: 32vw;
+    border-radius: 50%;
+    box-shadow: 0 0 25px solid #b74b4b;
+    cursor: pointer;
+    transition: 0.2s linear;
+}
+
+.home-img img:hover {
+    font-size: 1.8rem;
+    font-weight: 500;
+}
         
         .home-content h1 {
             font-size: 3rem;
