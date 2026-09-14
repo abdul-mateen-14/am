@@ -3,7 +3,7 @@
     "short_name": "Abdul Mateen",
     "description": "Professional Funded Trader specializing in XAU (Gold), Forex & Crypto. Managing capital across multiple top-tier prop firms.",
     "start_url": "https://am.infy.uk/",
-    "scope": "/",
+    "scope": "https://am.infy.uk/",
     "display": "standalone",
     "background_color": "#030305",
     "theme_color": "#030305",
@@ -42,21 +42,21 @@
             "name": "Trader Dashboard",
             "short_name": "Dashboard",
             "description": "Real-time prices and quick links",
-            "url": "/dashboard",
+            "url": "https://am.infy.uk/dashboard",
             "icons": [{ "src": "https://am.infy.uk/assets/icon-192.png", "sizes": "192x192" }]
         },
         {
             "name": "AI Assistant",
             "short_name": "AI",
             "description": "Chat with Abdul's AI assistant",
-            "url": "/ai",
+            "url": "https://am.infy.uk/ai",
             "icons": [{ "src": "https://am.infy.uk/assets/icon-192.png", "sizes": "192x192" }]
         },
         {
             "name": "Certificates",
             "short_name": "Certs",
             "description": "Verified trading & professional credentials",
-            "url": "/certificates",
+            "url": "https://am.infy.uk/certificates",
             "icons": [{ "src": "https://am.infy.uk/assets/icon-192.png", "sizes": "192x192" }]
         }
     ]
