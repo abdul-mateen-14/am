@@ -2,7 +2,7 @@
     "name": "Abdul Mateen — Multi-Prop Funded Trader",
     "short_name": "Abdul Mateen",
     "description": "Professional Funded Trader specializing in XAU (Gold), Forex & Crypto. Managing capital across multiple top-tier prop firms.",
-    "start_url": "/",
+    "start_url": "https://am.infy.uk/",
     "scope": "/",
     "display": "standalone",
     "background_color": "#030305",
@@ -13,25 +13,25 @@
     "dir": "ltr",
     "icons": [
         {
-            "src": "/assets/icon-192.png",
+            "src": "https://am.infy.uk/assets/icon-192.png",
             "sizes": "192x192",
             "type": "image/png",
             "purpose": "any"
         },
         {
-            "src": "/assets/icon-192.png",
+            "src": "https://am.infy.uk/assets/icon-192.png",
             "sizes": "192x192",
             "type": "image/png",
             "purpose": "maskable"
         },
         {
-            "src": "/assets/icon-512.png",
+            "src": "https://am.infy.uk/assets/icon-512.png",
             "sizes": "512x512",
             "type": "image/png",
             "purpose": "any"
         },
         {
-            "src": "/assets/icon-512.png",
+            "src": "https://am.infy.uk/assets/icon-512.png",
             "sizes": "512x512",
             "type": "image/png",
             "purpose": "maskable"
@@ -43,21 +43,21 @@
             "short_name": "Dashboard",
             "description": "Real-time prices and quick links",
             "url": "/dashboard",
-            "icons": [{ "src": "/assets/icon-192.png", "sizes": "192x192" }]
+            "icons": [{ "src": "https://am.infy.uk/assets/icon-192.png", "sizes": "192x192" }]
         },
         {
             "name": "AI Assistant",
             "short_name": "AI",
             "description": "Chat with Abdul's AI assistant",
             "url": "/ai",
-            "icons": [{ "src": "/assets/icon-192.png", "sizes": "192x192" }]
+            "icons": [{ "src": "https://am.infy.uk/assets/icon-192.png", "sizes": "192x192" }]
         },
         {
             "name": "Certificates",
             "short_name": "Certs",
             "description": "Verified trading & professional credentials",
             "url": "/certificates",
-            "icons": [{ "src": "/assets/icon-192.png", "sizes": "192x192" }]
+            "icons": [{ "src": "https://am.infy.uk/assets/icon-192.png", "sizes": "192x192" }]
         }
     ]
 }
