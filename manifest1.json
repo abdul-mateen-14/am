@@ -1,6 +1,6 @@
 {
-  "name": "Chart - Trading Analysis Platform",
-  "short_name": "Chart",
+  "name": "CoreX - Trading Analysis Platform",
+  "short_name": "CoreX",
   "description": "Advanced trading analysis platform with real-time charts, market data.",
   "id": "/chart/",
   "start_url": "/chart/",
