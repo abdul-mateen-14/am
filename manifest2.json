@@ -7,8 +7,8 @@
   "scope": "/chart/",
   "display": "standalone",
   "orientation": "any",
-  "background_color": "#ffffff",
-  "theme_color": "#ffffff",
+  "background_color": "#000000",
+  "theme_color": "#000000",
   "categories": ["finance", "business", "productivity"],
   "icons": [
     {
